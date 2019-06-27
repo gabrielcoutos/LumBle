@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">LEDTEC</string>
+    <string name="entrar_maiusculo">ENTRAR</string>
+    <string name="senha_maiusculo">SENHA</string>
+    <string name="check_box_maiusculo">SALVAR SENHA</string>
+    <string name="sair_maiusculo">SAIR</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_luminaria">Luminárias</string>
+    <string name="title_configuracoes">Configurações</string>
+    <string name="title_sobre">Sobre</string>
+    <string name="text_lista_empty">Nenhum local/luminária\ncadastrado.</string>
+    <string name="text_cadastrar_maiusculo">CADASTRAR</string>
+    <string name="text_aguarde">AGUARDE</string>
+    <string name="text_OK">SUCESSO</string>
+    <string name="text_erro">ERRO</string>
+    <string name="version_project">SP4209-R0001\ndh1906141411</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_cadastro_maiusculo">O QUE DESEJA CADASTRAR?</string>
+    <string name="txt_local">LOCAL</string>
+    <string name="txt_luminaria">LUMINÁRIA</string>
+    <string name="txt_icone">SELECIONE UM ÍCONE</string>
+    <string name="txt_nome_lugar_lum">DIGITE UM NOME PARA O LOCAL</string>
+    <string name="btn_salvar">SALVAR</string>
+    <string name="txt_selecione_lum">SELECIONE UMA LUMINÁRIA PARA CADASTRAR:</string>
+    <string name="txt_cadastar_lum">CADASTRAR</string>
+    <string name="txt_nome_lum">NOME DA LUMINÁRIA</string>
+    <string name="txt_empty_lum_cadastro">Certifique-se de que possuem luminárias em modo de gravação por perto</string>
+    <string name="txt_conectando_lum">ESTABELECENDO\nCONEXÃO</string>
+    <string name="txt_reconectar">RECONECTAR</string>
+    <string name="txt_plus">+</string>
+    <string name="txt_menos">-</string>
+    <string name="txt_config_tempo">CONFIGURAÇÃO DE TEMPO</string>
+    <string name="txt_luz_alta">Luz alta em segundos</string>
+    <string name="txt_luz_baixa">Luz baixa em segundos</string>
+    <string name="txt_manter_luz_baixa">Manter luz baixa</string>
+    <string name="txt_config_luminosidade_alta">CONFIGURAÇÃO DE LUMINOSIDADE ALTA</string>
+    <string name="txt_config_luminosidade_baixa">CONFIGURAÇÃO DE LUMINOSIDADE BAIXA</string>
+    <string name="luz_alta">Luz alta</string>
+    <string name="luz_baixa">Luz baixa</string>
+    <string name="txt_confirmar">CONFIRMAR</string>
+    <string name="txt_excluir">Excluir</string>
+</resources>

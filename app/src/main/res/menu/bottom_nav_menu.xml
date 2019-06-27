@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/configuracoes"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/title_configuracoes" />
+
+    <item
+        android:id="@+id/luminarias"
+        android:icon="@drawable/ic_lightbulb_outline_black_24dp"
+         android:title="@string/title_luminaria"/>
+
+    <item
+        android:id="@+id/sobre"
+        android:icon="@drawable/ic_announcement_black_24dp"
+        android:title="@string/title_sobre" />
+
+</menu>
